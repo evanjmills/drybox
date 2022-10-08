@@ -24,6 +24,8 @@ def main():
                 if diff.days > 2:
                     start = None
                     send_message()
+            else:
+                start = datetime.now()
         else:
             start = None
 
