@@ -1,0 +1,2 @@
+Adafruit_DHT>=1.4.0 
+twilio>=7.14.2
